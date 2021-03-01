@@ -1,0 +1,9 @@
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Dyan\Desktop\ULV\Spring 2021\CMPS 480\P1\Project1\Project1\obj\Debug\Project1.pdb
